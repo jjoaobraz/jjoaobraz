@@ -31,3 +31,6 @@
 
 <!-- GIF -->
 
+<p align="center">
+  <img align="center" src="https://github.com/jjoaobraz/jjoaobraz/blob/main/imgReadme.gif" alt="Imagem">
+</p>
