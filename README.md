@@ -13,11 +13,14 @@
 </details>
 
 <div align="center">
-  <a href="https://github.com/jjoaobraz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjoaobraz&rank_icon=github&hide_rank=true&show_icons=true&title_color=CF9D71&icon_color=13ed1a&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&theme=dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaobraz&layout=compact&langs_count=7&hide_border=true&hide=css,scss,html&icon_color=594BA&border_radius=20&count_private=true&theme=dark"/>
+  
+![Joao Braz GitHub stats](https://github-readme-stats.vercel.app/api?username=jjoaobraz&show_icons=true&theme=dark)   
+
 </div>
-    
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaobraz&layout=compact&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ##
 
 ## Tecnologias
