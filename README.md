@@ -13,13 +13,12 @@
 </details>
 
 <div align="center">
-  
+
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-10b981?style=for-the-badge)](https://jjoaobraz.github.io/servicos)
+
 ![Joao Braz GitHub stats](https://github-readme-stats.vercel.app/api?username=jjoaobraz&show_icons=true&theme=dark)   
 
 </div>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaobraz&layout=compact&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ##
 
