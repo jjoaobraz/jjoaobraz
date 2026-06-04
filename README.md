@@ -42,16 +42,24 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjoaobraz&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=jjoaobraz&theme=dark&hide_border=true&locale=pt_BR">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jjoaobraz&theme=default&hide_border=true&locale=pt_BR">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=jjoaobraz&theme=dark&hide_border=true&locale=pt_BR">
+</picture>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjoaobraz&theme=github-compact&hide_border=true&area=true)](https://github.com/jjoaobraz)
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=jjoaobraz&theme=github-compact&hide_border=true&area=true&bg_color=161b22">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jjoaobraz&theme=github&hide_border=true&area=true">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jjoaobraz&theme=github-compact&hide_border=true&area=true">
+</picture>
 
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
