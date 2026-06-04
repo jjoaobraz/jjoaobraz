@@ -9,10 +9,10 @@
 
 <br>
 
-[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-10b981?style=for-the-badge)](https://jjoaobraz.github.io/servicos)
+[![Portfólio](https://img.shields.io/badge/Portfólio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jjoaobraz.github.io/servicos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-braz-aa409982/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581996364031)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaorpa2021@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaorpa2021@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 - 💼 Coordeno desenvolvimento de projetos no **Grupo Abraz**
 - 🐍 Desenvolvo soluções com **Python** e **PHP**
-- 🐳 Utilizo **Docker** para ambientes containerizados
+- 🐳 Ambientes containerizados com **Docker**
 - 🗄️ Banco de dados **MySQL**
 - ⚙️ Foco em automação e produtividade com código
 
@@ -43,6 +43,8 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jjoaobraz&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjoaobraz&theme=github-compact&hide_border=true&area=true)](https://github.com/jjoaobraz)
 
 </div>
 
