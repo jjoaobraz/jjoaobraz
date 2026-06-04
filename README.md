@@ -42,11 +42,9 @@
 
 <div align="center">
 
-![Streak dark](https://streak-stats.demolab.com?user=jjoaobraz&theme=dark&hide_border=true&locale=pt_BR#gh-dark-mode-only)
-![Streak light](https://streak-stats.demolab.com?user=jjoaobraz&theme=default&hide_border=true&locale=pt_BR#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jjoaobraz&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-![Graph dark](https://github-readme-activity-graph.vercel.app/graph?username=jjoaobraz&theme=github-compact&hide_border=true&area=true&bg_color=161b22#gh-dark-mode-only)
-![Graph light](https://github-readme-activity-graph.vercel.app/graph?username=jjoaobraz&theme=github&hide_border=true&area=true#gh-light-mode-only)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjoaobraz&theme=github-compact&hide_border=true&area=true)](https://github.com/jjoaobraz)
 
 </div>
 
