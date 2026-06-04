@@ -42,8 +42,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjoaobraz&show_icons=true&theme=dark&locale=pt-br&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaobraz&layout=compact&theme=dark&locale=pt-br&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jjoaobraz&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
